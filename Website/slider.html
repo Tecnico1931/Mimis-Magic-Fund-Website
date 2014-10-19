@@ -1,0 +1,41 @@
+
+<div style="margin:0 auto; width: 634px; height:120px;">
+<!-- "previous page" action -->
+
+<!-- root element for scrollable -->
+<div class="scrollable" id="autoscroll">
+
+  <!-- root element for the items -->
+  <div class="items">
+
+    <!-- 1-5 -->
+    <div>
+      <img src="images/home_hero.jpg" /></div>
+
+    <!-- 5-10 -->
+    <div>
+      <img src="images/hero2.png" /></div>
+
+    <!-- 10-15 -->
+    <div>
+      <img src="images/hero3.png" />
+    </div>
+
+  </div>
+
+</div>
+
+</div>
+
+
+
+<!-- javascript coding -->
+<script>
+$(document).ready(function() {
+// initialize scrollable together with the autoscroll plugin
+var root = $("#autoscroll").scrollable({circular: true}).autoscroll({ autoplay: false });
+
+// provide scrollable API for the action buttons
+window.api = root.data("scrollable");
+});
+</script>
