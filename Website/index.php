@@ -40,6 +40,8 @@
     <div> <a href="https://secure2.convio.net/mskcc/site/Donation2;jsessionid=45FCE8345074FC8FDB3130BC9E639B88.app271a?df_id=3520&amp;PROXY_ID=38400&amp;PROXY_TYPE=31&amp;FR_ID=1590" target="_blank"><img src="images/hero4.jpg" /></a></div>
     <div> <a href="https://secure2.convio.net/mskcc/site/Donation2;jsessionid=45FCE8345074FC8FDB3130BC9E639B88.app271a?df_id=3520&amp;PROXY_ID=38400&amp;PROXY_TYPE=31&amp;FR_ID=1590" target="_blank"><img src="images/hero5.jpg" /></a></div>
     <div> <a href="https://secure2.convio.net/mskcc/site/Donation2;jsessionid=45FCE8345074FC8FDB3130BC9E639B88.app271a?df_id=3520&amp;PROXY_ID=38400&amp;PROXY_TYPE=31&amp;FR_ID=1590" target="_blank"><img src="images/hero6.jpg" /></a></div>
+    <div> <a href="https://secure2.convio.net/mskcc/site/Donation2;jsessionid=45FCE8345074FC8FDB3130BC9E639B88.app271a?df_id=3520&amp;PROXY_ID=38400&amp;PROXY_TYPE=31&amp;FR_ID=1590" target="_blank"><img src="images/hero7.jpg" /></a></div>
+    <div> <a href="https://secure2.convio.net/mskcc/site/Donation2;jsessionid=45FCE8345074FC8FDB3130BC9E639B88.app271a?df_id=3520&amp;PROXY_ID=38400&amp;PROXY_TYPE=31&amp;FR_ID=1590" target="_blank"><img src="images/hero8.jpg" /></a></div>
 
   </div>
 
